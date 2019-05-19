@@ -1,0 +1,34 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thesquare.com" resolutions="1x" timestamp="1558248523080">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3763118919" ref="index:about:post:trades"/>
+    <file name="index.css" crc="3895738166" ref="index"/>
+    <file name="iefonts_index.css" crc="3904756177" ref="index"/>
+    <file name="about.css" crc="4062317023" ref="about"/>
+    <file name="iefonts_about.css" crc="126126610" ref="about"/>
+    <file name="post.css" crc="4221008184" ref="post"/>
+    <file name="iefonts_post.css" crc="251888171" ref="post"/>
+    <file name="trades.css" crc="513480496" ref="trades"/>
+    <file name="iefonts_trades.css" crc="4229710228" ref="trades"/>
+  </folder>
+  <folder name="fonts">
+    <file name="futura bold.woff" crc="54164926"/>
+    <file name="futura bold.eot" crc="3911468388"/>
+    <file name="futura bold.svg" crc="287524906"/>
+    <file name="oratorstd.woff" crc="3759803969"/>
+    <file name="oratorstd.eot" crc="3780735155"/>
+    <file name="oratorstd.svg" crc="523729240"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:post:trades"/>
+    <file name="museutils.js" crc="17924269" ref="index:about:post:trades"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:post:trades"/>
+    <file name="museconfig.js" crc="144853533" ref="index:about:post:trades"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:about:post:trades"/>
+    <file name="require.js" crc="3861931657" ref="index:about:post:trades"/>
+  </folder>
+  <file name="index.html" crc="3883796315" seo="true" mt="1558228130017" redirect="true"/>
+  <file name="about.html" crc="4077517756" seo="true" mt="1558228130017" redirect="true"/>
+  <file name="post.html" crc="64780967" seo="true" mt="1558228130017" redirect="true"/>
+  <file name="trades.html" crc="50087258" seo="true" mt="1558228130017" redirect="true"/>
+</manifest>
