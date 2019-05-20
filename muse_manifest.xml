@@ -1,9 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1558315046151">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1558315617629">
   <folder name="images">
     <file name="bitcoin 101 (1).jpg" crc="3916845332" seo="true" ref="index:postone">
       <caption webpage="index" alt=""/>
       <caption webpage="postone" alt=""/>
     </file>
+    <file name="a-master-favicon.ico" crc="4276222306" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -33,8 +34,8 @@
     <file name="jquery.watch.js" crc="4240030481" ref="index:about:postone:trades"/>
     <file name="require.js" crc="3861931657" ref="index:about:postone:trades"/>
   </folder>
-  <file name="index.html" crc="4171659586" seo="true" mt="1558299597400" redirect="true"/>
-  <file name="about.html" crc="259775110" seo="true" mt="1558299597403" redirect="true"/>
-  <file name="postone.html" crc="241124477" seo="true" mt="1558315020885" redirect="true"/>
-  <file name="trades.html" crc="387077318" seo="true" mt="1558299597400" redirect="true"/>
+  <file name="index.html" crc="4164187609" seo="true" mt="1558315609236" redirect="true"/>
+  <file name="about.html" crc="3911929932" seo="true" mt="1558315609236" redirect="true"/>
+  <file name="postone.html" crc="259717944" seo="true" mt="1558315609236" redirect="true"/>
+  <file name="trades.html" crc="273358129" seo="true" mt="1558315609236" redirect="true"/>
 </manifest>
