@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1558315617629">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1558318314725">
   <folder name="images">
     <file name="bitcoin 101 (1).jpg" crc="3916845332" seo="true" ref="index:postone">
       <caption webpage="index" alt=""/>
@@ -7,16 +7,16 @@
     <file name="a-master-favicon.ico" crc="4276222306" ref="index"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
+    <file name="site_global.css" crc="530099340"/>
     <file name="master_a-master.css" crc="3763118919" ref="index:about:postone:trades"/>
-    <file name="index.css" crc="3918815963" ref="index"/>
+    <file name="index.css" crc="527710208" ref="index"/>
     <file name="iefonts_index.css" crc="3904756177" ref="index"/>
-    <file name="about.css" crc="522156061" ref="about"/>
-    <file name="iefonts_about.css" crc="126126610" ref="about"/>
-    <file name="postone.css" crc="378038359" ref="postone"/>
-    <file name="iefonts_postone.css" crc="251888171" ref="postone"/>
-    <file name="trades.css" crc="24324831" ref="trades"/>
-    <file name="iefonts_trades.css" crc="4229710228" ref="trades"/>
+    <file name="about.css" crc="445691848" ref="about"/>
+    <file name="iefonts_about.css" crc="3767681925" ref="about"/>
+    <file name="postone.css" crc="4065064222" ref="postone"/>
+    <file name="iefonts_postone.css" crc="4259637233" ref="postone"/>
+    <file name="trades.css" crc="394688585" ref="trades"/>
+    <file name="iefonts_trades.css" crc="124094467" ref="trades"/>
   </folder>
   <folder name="fonts">
     <file name="futura bold.woff" crc="54164926"/>
@@ -34,8 +34,8 @@
     <file name="jquery.watch.js" crc="4240030481" ref="index:about:postone:trades"/>
     <file name="require.js" crc="3861931657" ref="index:about:postone:trades"/>
   </folder>
-  <file name="index.html" crc="4164187609" seo="true" mt="1558315609236" redirect="true"/>
-  <file name="about.html" crc="3911929932" seo="true" mt="1558315609236" redirect="true"/>
-  <file name="postone.html" crc="259717944" seo="true" mt="1558315609236" redirect="true"/>
-  <file name="trades.html" crc="273358129" seo="true" mt="1558315609236" redirect="true"/>
+  <file name="index.html" crc="4045187950" seo="true" mt="1558318305029" redirect="true"/>
+  <file name="about.html" crc="166042295" seo="true" mt="1558315963760" redirect="true"/>
+  <file name="postone.html" crc="4194845388" seo="true" mt="1558315988893" redirect="true"/>
+  <file name="trades.html" crc="3845387110" seo="true" mt="1558317835819" redirect="true"/>
 </manifest>

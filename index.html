@@ -17,9 +17,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/a-master-favicon.ico?crc=4276222306"/>
   <title>home | the corner</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=530099340"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3763118919"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3918815963" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=527710208" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?crc=3904756177"/>
@@ -30,7 +30,245 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </script>
   <!-- JS includes -->
   <script src="https://webfonts.creativecloud.com/roboto:i7,n5,n7:default.js" type="text/javascript"></script>
-    <!--/*
+    <!--HTML Widget code-->
+  
+<style>
+html
+{
+    overflow:scroll;
+    overflow-x:hidden;
+    overflow-y: scroll;
+}
+#page #u427 {
+    height:100%;
+    min-height:0px;
+    max-height:100%;
+}
+#u427:after {
+ clear:both;
+margin-bottom:0px;
+display:block;
+}
+li.rss-item img {
+    max-width: 100%;
+    height:auto;
+}
+li.rss-item p {
+margin-bottom: 1.2em;
+}
+.rss-item table {
+    display:none!important;
+}
+.rss-item p {
+     
+}
+.rss-items {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: stretch;
+    align-content: stretch;
+    justify-content: space-around;
+}
+span.rss-date {
+    margin-bottom: -0.6em;
+    display: block;
+    font-size: 0.8em;
+}
+.rss-item-auth {
+    display:block;
+    margin-top:10px;
+    font-size: 1.0em;
+}
+
+.rss-item figure {
+    max-width: 100%;
+}
+.rss-item a {
+    margin-bottom: 1em;
+    display:block;
+}
+
+.rss-item a:link, .rss-item a:visited, .rss-item a:active {
+	text-decoration : none;
+    line-height: 1.2em;
+	}
+.rss-item a:hover { 
+	text-decoration : none;
+
+	}
+.rss-item > a:first-child {
+    font-size: 0.1em;
+}
+.rss-items li {
+    flex-shrink: 100%;margin-right: 0%;;
+    margin-bottom: 50px;
+    float:left;
+    display:block;
+    width:100%;margin-right: 0%;;
+    position: relative !important;
+}
+
+/* Colors */
+
+.rss-items {
+ color: #000000;
+}
+.rss-date {
+    color: #000000;
+}
+.rss-item-auth {
+    color: #000000;
+}
+
+/* Media Quieries */
+
+@media screen and (max-width: 820px) {
+.rss-items li {
+    flex-shrink: {param_colummst};
+    min-width:45%;
+    margin-bottom: {param_spacer}px;
+    float:left;
+    display:block;
+    position: relative !important;
+}
+}
+@media screen and (max-width: 480px) {
+.rss-items li {
+    flex-shrink: 100%;
+    width:100%;
+    margin-bottom: {param_spacer}px;
+    float:left;
+    display:block;
+    margin-right: 0%;
+    position: relative !important;
+}
+}
+span.hideMe {
+    display: none;
+}
+</style>
+
+    
+<style>
+html
+{
+    overflow:scroll;
+    overflow-x:hidden;
+    overflow-y: scroll;
+}
+#page #u443 {
+    height:100%;
+    min-height:0px;
+    max-height:100%;
+}
+#u443:after {
+ clear:both;
+margin-bottom:0px;
+display:block;
+}
+li.rss-item img {
+    max-width: 100%;
+    height:auto;
+}
+li.rss-item p {
+margin-bottom: 1.2em;
+}
+.rss-item table {
+    display:none!important;
+}
+.rss-item p {
+     
+}
+.rss-items {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: stretch;
+    align-content: stretch;
+    justify-content: space-around;
+}
+span.rss-date {
+    margin-bottom: -0.6em;
+    display: block;
+    font-size: 0.8em;
+}
+.rss-item-auth {
+    display:block;
+    margin-top:10px;
+    font-size: 1.0em;
+}
+
+.rss-item figure {
+    max-width: 100%;
+}
+.rss-item a {
+    margin-bottom: 1em;
+    display:block;
+}
+
+.rss-item a:link, .rss-item a:visited, .rss-item a:active {
+	text-decoration : none;
+    line-height: 1.2em;
+	}
+.rss-item a:hover { 
+	text-decoration : none;
+
+	}
+.rss-item > a:first-child {
+    font-size: 0.1em;
+}
+.rss-items li {
+    flex-shrink: 100%;margin-right: 0%;;
+    margin-bottom: 50px;
+    float:left;
+    display:block;
+    width:100%;margin-right: 0%;;
+    position: relative !important;
+}
+
+/* Colors */
+
+.rss-items {
+ color: #000000;
+}
+.rss-date {
+    color: #000000;
+}
+.rss-item-auth {
+    color: #000000;
+}
+
+/* Media Quieries */
+
+@media screen and (max-width: 820px) {
+.rss-items li {
+    flex-shrink: {param_colummst};
+    min-width:45%;
+    margin-bottom: {param_spacer}px;
+    float:left;
+    display:block;
+    position: relative !important;
+}
+}
+@media screen and (max-width: 480px) {
+.rss-items li {
+    flex-shrink: 100%;
+    width:100%;
+    margin-bottom: {param_spacer}px;
+    float:left;
+    display:block;
+    margin-right: 0%;
+    position: relative !important;
+}
+}
+span.hideMe {
+    display: none;
+}
+</style>
+
+    
+  <!--/*
 
 */
 -->
@@ -42,11 +280,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div id="u118"><!-- simple frame --></div>
    </div>
    <div class="clearfix grpelem" id="pu235-4"><!-- column -->
-    <div class="clearfix colelem" id="u235-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p>TWITTER</p>
-    </div>
-    <div class="clearfix colelem" id="u236-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p>@BitcoinRooster</p>
+    <a class="nonblock nontext clearfix colelem" id="u235-4" href="https://twitter.com/BitcoinRooster" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>TWITTER</p></a>
+    <a class="nonblock nontext clearfix colelem" id="u236-4" href="https://twitter.com/BitcoinRooster" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>@BitcoinRooster</p></a>
+    <div class="Paragraph-Style size_fluid_width colelem" id="u427" data-sizePolicy="fluidWidth" data-pintopage="page_fluidx"><!-- custom html -->
+     
+<div style="display:block;height:100%;width:100%!important;clear:both;position: relative;overflow:scroll!important;">
+<script language="JavaScript" src="http://feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Ftwitrss.me%2Ftwitter_user_to_rss%2F%3Fuser%3Dbitcoinrooster&num=6 &date=y&desc=400>1 = &utf=y&pc=y "  charset="UTF-8" type="text/javascript">
+</script>
+</div>
+    
     </div>
    </div>
    <div id="buttonu101-wrapper">
@@ -56,23 +298,25 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <a class="nonblock nontext clip_frame colelem" id="u398" href="postone.html"><!-- image --><img class="block" id="u398_img" src="images/bitcoin%20101%20(1).jpg?crc=3916845332" alt="" data-heightwidthratio="0.5634920634920635" data-image-width="378" data-image-height="213"/></a>
     <a class="nonblock nontext Button rounded-corners clearfix colelem" id="buttonu133" href="postone.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u134-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p><span id="u134">Bitcoin 101: Currency of the future</span></p></div></a>
    </div>
-   <div class="clearfix grpelem" id="pu94-4"><!-- group -->
-    <div id="u94-4-wrapper">
-     <a class="nonblock nontext MuseLinkActive clearfix" id="u94-4" href="index.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>the corner</p></a>
-    </div>
-    <div id="buttonu109-wrapper">
-     <a class="nonblock nontext Button rounded-corners clearfix" id="buttonu109" href="trades.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u110-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>trades</p></div></a>
-    </div>
+   <div id="u94-4-wrapper">
+    <a class="nonblock nontext MuseLinkActive clearfix" id="u94-4" href="index.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>the corner</p></a>
+   </div>
+   <div class="Paragraph-Style size_fluid_width grpelem" id="u443" data-sizePolicy="fluidWidth" data-pintopage="page_fluidx"><!-- custom html -->
+    
+<div style="display:block;height:100%;width:100%!important;clear:both;position: relative;overflow:scroll!important;">
+<script language="JavaScript" src="http://feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Ftwitrss.me%2Ftwitter_user_to_rss%2F%3Fuser%3Dbitcoinrooster&num=6 &date=y&desc=400>1 = &utf=y&pc=y "  charset="UTF-8" type="text/javascript">
+</script>
+</div>
+    
+   </div>
+   <div id="buttonu109-wrapper">
+    <a class="nonblock nontext Button rounded-corners clearfix" id="buttonu109" href="trades.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u110-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>trades</p></div></a>
    </div>
    <div class="clearfix grpelem" id="pu130-4"><!-- column -->
-    <div class="clearfix colelem" id="u130-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p>TWITTER</p>
-    </div>
-    <div class="clearfix colelem" id="u179-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p>@BitcoinRooster</p>
-    </div>
+    <a class="nonblock nontext clearfix colelem" id="u130-4" href="https://twitter.com/BitcoinRooster" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>TWITTER</p></a>
+    <a class="nonblock nontext clearfix colelem" id="u179-4" href="https://twitter.com/BitcoinRooster" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>@BitcoinRooster</p></a>
    </div>
-   <div class="verticalspacer" data-offset-top="388" data-content-above-spacer="388" data-content-below-spacer="122" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="1089" data-content-above-spacer="1089" data-content-below-spacer="122" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <div class="browser_width grpelem" id="u200-bw">
     <div id="u200"><!-- group -->
      <div class="clearfix" id="u200_align_to_page">
@@ -83,6 +327,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide weather to suppress missing file error or not based on preference setting
@@ -109,5 +360,18 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=3861931657" type="text/javascript" async data-main="scripts/museconfig.js?crc=144853533" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+<script>
+$( ".rss-item" ).each(function(index) {
+    $("li").click(function(){
+        window.location=$(this).find("a").attr("href"); 
+        return false;
+});
+</script>
+
+
+ 
    </body>
 </html>
