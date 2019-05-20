@@ -1,22 +1,33 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1558391889099">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1558394537242">
   <folder name="images">
-    <file name="bitcoin 101 (1).jpg" crc="3916845332" seo="true" ref="index:postone">
+    <file name="bitcoin 101 (1).jpg" crc="3916845332" seo="true" ref="index:bitcoin-101">
       <caption webpage="index" alt=""/>
+      <caption webpage="bitcoin-101" alt=""/>
       <caption webpage="postone" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="4276222306" ref="index"/>
+    <file name="systems imagination.jpg" crc="3940510448" seo="true" ref="systems-week1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="systems-week1" alt=""/>
+    </file>
+    <file name="hypergraph.png" crc="4222035297" seo="true" ref="systems-week1">
+      <caption webpage="systems-week1" alt=""/>
+    </file>
+    <file name="u94-4.png" crc="393981022" ref="index:about:bitcoin-101:trades:systems-week1"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="289347364"/>
-    <file name="master_a-master.css" crc="3763118919" ref="index:about:postone:trades"/>
-    <file name="index.css" crc="270090088" ref="index"/>
-    <file name="iefonts_index.css" crc="3904756177" ref="index"/>
-    <file name="about.css" crc="445691848" ref="about"/>
-    <file name="iefonts_about.css" crc="3767681925" ref="about"/>
-    <file name="postone.css" crc="4065064222" ref="postone"/>
-    <file name="iefonts_postone.css" crc="4259637233" ref="postone"/>
-    <file name="trades.css" crc="394688585" ref="trades"/>
-    <file name="iefonts_trades.css" crc="124094467" ref="trades"/>
+    <file name="master_a-master.css" crc="520584139" ref="index:about:trades:systems-week1:bitcoin-101"/>
+    <file name="index.css" crc="123280793" ref="index"/>
+    <file name="iefonts_index.css" crc="3776169388" ref="index"/>
+    <file name="about.css" crc="51598505" ref="about"/>
+    <file name="iefonts_about.css" crc="4113572293" ref="about"/>
+    <file name="trades.css" crc="4008534360" ref="trades"/>
+    <file name="iefonts_trades.css" crc="4028641240" ref="trades"/>
+    <file name="systems-week1.css" crc="4069290546" ref="systems-week1"/>
+    <file name="iefonts_systems-week1.css" crc="3959618560" ref="systems-week1"/>
+    <file name="bitcoin-101.css" crc="13683848" ref="bitcoin-101"/>
+    <file name="iefonts_bitcoin-101.css" crc="4157986097" ref="bitcoin-101"/>
   </folder>
   <folder name="fonts">
     <file name="futura bold.woff" crc="54164926"/>
@@ -27,15 +38,16 @@
     <file name="oratorstd.svg" crc="523729240"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:postone:trades"/>
-    <file name="museutils.js" crc="17924269" ref="index:about:postone:trades"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:postone:trades"/>
-    <file name="museconfig.js" crc="144853533" ref="index:about:postone:trades"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:about:postone:trades"/>
-    <file name="require.js" crc="3861931657" ref="index:about:postone:trades"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:trades:bitcoin-101:systems-week1"/>
+    <file name="museutils.js" crc="17924269" ref="index:about:trades:bitcoin-101:systems-week1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:trades:bitcoin-101:systems-week1"/>
+    <file name="museconfig.js" crc="144853533" ref="index:about:trades:bitcoin-101:systems-week1"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:about:trades:bitcoin-101:systems-week1"/>
+    <file name="require.js" crc="3861931657" ref="index:about:trades:bitcoin-101:systems-week1"/>
   </folder>
-  <file name="index.html" crc="517726028" seo="true" mt="1558391847492" redirect="true"/>
-  <file name="about.html" crc="4031794544" seo="true" mt="1558391847492" redirect="true"/>
-  <file name="postone.html" crc="158755432" seo="true" mt="1558391847492" redirect="true"/>
-  <file name="trades.html" crc="271756759" seo="true" mt="1558391847492" redirect="true"/>
+  <file name="index.html" crc="286566533" seo="true" mt="1558394497761" redirect="true"/>
+  <file name="about.html" crc="4275004266" seo="true" mt="1558394497761" redirect="true"/>
+  <file name="trades.html" crc="513047369" seo="true" mt="1558394497761" redirect="true"/>
+  <file name="bitcoin-101.html" crc="3930828505" seo="true" mt="1558394497761" redirect="true"/>
+  <file name="systems-week1.html" crc="203335845" seo="true" mt="1558394497761" redirect="true"/>
 </manifest>
