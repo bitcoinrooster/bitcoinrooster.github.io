@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1558318314725">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1558318382054">
   <folder name="images">
     <file name="bitcoin 101 (1).jpg" crc="3916845332" seo="true" ref="index:postone">
       <caption webpage="index" alt=""/>
