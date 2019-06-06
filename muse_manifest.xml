@@ -1,15 +1,14 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1559800123469">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thecorner.io" resolutions="1x" timestamp="1559800398866">
   <folder name="images">
     <file name="bitcoin 101 (1).jpg" crc="3916845332" seo="true" ref="index:bitcoin-101">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="bitcoin-101" alt=""/>
+      <caption webpage="bitcoin-101" alt=""/>
+      <caption webpage="bitcoin-101" alt=""/>
+      <caption webpage="bitcoin-101" alt=""/>
       <caption webpage="postone" alt=""/>
-      <caption webpage="bitcoin-101" alt=""/>
-      <caption webpage="bitcoin-101" alt=""/>
-      <caption webpage="bitcoin-101" alt=""/>
-      <caption webpage="bitcoin-101" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="4276222306" ref="index"/>
     <file name="systems imagination.jpg" crc="3940510448" seo="true" ref="systems-week1">
@@ -22,23 +21,23 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="289347364"/>
-    <file name="master_a-master.css" crc="3798475662" ref="index:about:trades:systems-week1:bitcoin-101"/>
-    <file name="index.css" crc="3916392517" ref="index"/>
+    <file name="master_a-master.css" crc="4120719859" ref="index:about:trades:systems-week1:bitcoin-101"/>
+    <file name="index.css" crc="3909332748" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="about.css" crc="11589156" ref="about"/>
+    <file name="about.css" crc="380184019" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="trades.css" crc="218931606" ref="trades"/>
+    <file name="trades.css" crc="3846568130" ref="trades"/>
     <file name="iefonts_trades.css" crc="3824530138" ref="trades"/>
-    <file name="systems-week1.css" crc="330425556" ref="systems-week1"/>
+    <file name="systems-week1.css" crc="119125115" ref="systems-week1"/>
     <file name="iefonts_systems-week1.css" crc="3824530138" ref="systems-week1"/>
-    <file name="bitcoin-101.css" crc="4148526749" ref="bitcoin-101"/>
+    <file name="bitcoin-101.css" crc="3910301735" ref="bitcoin-101"/>
     <file name="iefonts_bitcoin-101.css" crc="3824530138" ref="bitcoin-101"/>
     <file name="nomq_preview_master_a-master.css" crc="3772226739" ref="trades:index:about:systems-week1:bitcoin-101"/>
-    <file name="nomq_trades.css" crc="4221773385" ref="trades"/>
-    <file name="nomq_index.css" crc="3855390428" ref="index"/>
-    <file name="nomq_about.css" crc="4216292901" ref="about"/>
-    <file name="nomq_systems-week1.css" crc="448654320" ref="systems-week1"/>
-    <file name="nomq_bitcoin-101.css" crc="3996845151" ref="bitcoin-101"/>
+    <file name="nomq_trades.css" crc="22843012" ref="trades"/>
+    <file name="nomq_index.css" crc="162943857" ref="index"/>
+    <file name="nomq_about.css" crc="3941844217" ref="about"/>
+    <file name="nomq_systems-week1.css" crc="4065206347" ref="systems-week1"/>
+    <file name="nomq_bitcoin-101.css" crc="373183357" ref="bitcoin-101"/>
   </folder>
   <folder name="fonts">
     <file name="futura bold.woff" crc="54164926"/>
@@ -57,9 +56,9 @@
     <file name="require.js" crc="3861931657" ref="index:about:trades:bitcoin-101:systems-week1"/>
     <file name="jquery.museresponsive.js" crc="4267800278" ref="index:about:bitcoin-101:trades:systems-week1"/>
   </folder>
-  <file name="index.html" crc="3967997988" seo="true" mt="1559800110816" redirect="true"/>
-  <file name="about.html" crc="4246957455" seo="true" mt="1559800039967" redirect="true"/>
-  <file name="trades.html" crc="4164415111" seo="true" mt="1559800039967" redirect="true"/>
-  <file name="bitcoin-101.html" crc="208307508" seo="true" mt="1559800064620" redirect="true"/>
-  <file name="systems-week1.html" crc="4213069617" seo="true" mt="1559800039967" redirect="true"/>
+  <file name="index.html" crc="3824396692" seo="true" mt="1559800385179" redirect="true"/>
+  <file name="about.html" crc="137631599" seo="true" mt="1559800385179" redirect="true"/>
+  <file name="trades.html" crc="3841675293" seo="true" mt="1559800385179" redirect="true"/>
+  <file name="bitcoin-101.html" crc="3989904458" seo="true" mt="1559800385179" redirect="true"/>
+  <file name="systems-week1.html" crc="3899895758" seo="true" mt="1559800385179" redirect="true"/>
 </manifest>
